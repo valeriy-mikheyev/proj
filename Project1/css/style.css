@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .subscribe-input {
   margin-top: 20px;
-  max-width: 500px;
+  width: 43%;
   font-size: 15px;
   padding: 23px 23px;
   border: none;
@@ -376,7 +376,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 19px;
   margin-left: 20px;
   color: #fff;
-  max-width: 214px;
+  width: 17%;
   border: none;
   border-radius: 5px;
   padding: 22px 23px;
